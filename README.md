@@ -47,7 +47,7 @@ Your task is to analyze this dataset to uncover actionable insights related to:
 
 ## Screenshot of Dashboard
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/vidhi0528/fnp-sales-insights-excel/blob/main/Dashboard%20Snapshot.png)
 
 ## Key Insights
 - Diwali and Raksha Bandhan are the highest revenue-generating occasions.
